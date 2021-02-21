@@ -1,0 +1,43 @@
+html{
+
+    background-color : black;
+    background-color: black;
+}
+.popuptext{
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px;
+    position: absolute;
+}
+.btn{
+    color: wheat;
+
+}
+body{
+    background-color: black;
+    color: wheat;
+}
+div{
+    background-color: black;
+}
+.nav-item{
+    color: wheat;
+}
+.container-fluid{
+    color:wheat;
+}
+
+.nav-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: wheat !important;
+}
+#image-idea{
+    size: landscape;
+}
+
