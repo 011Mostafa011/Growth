@@ -1,43 +1,26 @@
-html{
-
-    background-color : black;
-    background-color: black;
+html {
+  background-color: rgb(209, 255, 249);
+  background-color: rgb(146, 204, 243);
 }
-.popuptext{
-    visibility: hidden;
-    width: 160px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 8px;
-    position: absolute;
-}
-.btn{
-    color: wheat;
-
-}
-body{
-    background-color: black;
-    color: wheat;
-}
-div{
-    background-color: black;
-}
-.nav-item{
-    color: wheat;
-}
-.container-fluid{
-    color:wheat;
+.popuptext {
+  visibility: hidden;
+  width: 160px;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px;
+  position: absolute;
 }
 
-.nav-link{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: wheat !important;
+body {
+  background-color: rgb(228, 255, 240);
+  width: 100%;
+  overflow-x: hidden;
 }
-#image-idea{
-    size: landscape;
+.nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
+#image-idea {
+  size: landscape;
+}
