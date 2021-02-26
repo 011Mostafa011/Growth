@@ -15,6 +15,10 @@ body {
   background-color: rgb(228, 255, 240);
   width: 100%;
   overflow-x: hidden;
+
+}
+p{
+  font-size: large;
 }
 .nav-link {
   display: flex;
